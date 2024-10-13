@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+redis
+pymongo
+boto3
+python-dotenv
